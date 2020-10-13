@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 title = "Dev.anima"
 languageCode = "ko-KR"
 DefaultContentLanguage = "ko" # Change this to change the site's language
