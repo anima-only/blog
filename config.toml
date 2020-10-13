@@ -16,7 +16,7 @@ preserveTaxonomyNames = true
     mainpagedesc = "코딩을 좋아하는 학생"
 
     # The name to display in the copyright section in the footer
-    copyrightname = "ANIMA"
+    copyrightname = "Dev.ANIMA"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     copyrighturl = "https://github.com/anima-only"
