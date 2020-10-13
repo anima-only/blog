@@ -1,5 +1,5 @@
 baseURL = ""
-title = "Dev.ANIMA"
+title = "ANIMA"
 languageCode = "ko-KR"
 DefaultContentLanguage = "ko" # Change this to change the site's language
 theme = "hugo.386"
@@ -8,9 +8,6 @@ preserveTaxonomyNames = true
 [params]
     # The name to display as main title in the home page
     mainpagetitle = "Dev.ANIMA"
-
-    # The subtitle to display under the title in the home page
-    mainpagesubtitle = ""
 
     # The description of your website. It will be displayed in the home page
     mainpagedesc = "코딩을 좋아하는 학생"
