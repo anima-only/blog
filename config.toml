@@ -46,7 +46,6 @@ preserveTaxonomyNames = true
 
 [menu]
   # This displays buttons in the navbar to access your contents
-
   [[menu.main]]
     identifier = "about" # An unique identifier for the button
     name = "About"       # A display name for the button
@@ -55,7 +54,7 @@ preserveTaxonomyNames = true
 
   [[menu.main]]
     identifier = "posts"
-    name = "Posts"
+    name = "All posts"
     url = "/posts/"       # The path can lead to a content folder too.
     weight = 20
 
